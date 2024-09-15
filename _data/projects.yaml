@@ -23,7 +23,7 @@
 - title: RIWWER
   subtitle: Reduction of the Impact of untreated Waste Water on the Environment in case of torrential Rain
   group: ongoing
-  image: images/riwwer.png
+  image: images/RIWWER.png
   link: https://www.riwwer.fraunhofer.de/
   description: During heavy rainfall, polluted wastewater pollutes surface water bodies. We develop ML methods to better model sewer system dynamics. 
   tags:

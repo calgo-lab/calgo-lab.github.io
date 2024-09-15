@@ -14,3 +14,11 @@
     - infrastructure
     - time series
 
+- title: GreenDB
+  subtitle: Trustworthy sustainability information for consumer products
+  description: As a result of the [Green Consumption Assistant](https://green-consumption-assistant.de/home-english/) we built a large data base with reliable sustainability information. 
+  link: https://calgo-lab.github.io/green-db/
+  tags:
+    - sustainability
+    - tabular data 
+

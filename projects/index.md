@@ -14,12 +14,12 @@ nav:
 
 {% include section.html %}
 
-## Featured
+## Ongoing
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: ongoing" %}
 
 {% include section.html %}
 
-## More
+## Completed
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group:completed" %}

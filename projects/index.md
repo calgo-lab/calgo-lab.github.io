@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="sustainability, health, synthetic-data" %}
 
 {% include search-info.html %}
 

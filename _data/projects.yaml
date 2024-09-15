@@ -6,48 +6,61 @@
   description: We develop and evaluate ML methods for fall risk prediction in nursing care. We investigate the potential of synthetic health data under strict privacy constraints. Funded by the [Federal Ministry for Research and Education](https://www.bmbf.de/bmbf/en/home/home_node.html)
   tags:
     - health
-    - synthetic data
+    - synthetic-data
     - fairness
+    - data-quality
 
 - title: ProKIP
   subtitle: Process development and support for AI use in nursing care
   group: ongoing
+  image: images/prokip.png
   link: https://prokip.care/
   description: ProKIP accompanies, advises and evaluates AI for nursing care research projects. Funded by the [Federal Ministry for Research and Education](https://www.bmbf.de/bmbf/en/home/home_node.html)
   tags:
     - health
+    - fairness
 
 - title: RIWWER
   subtitle: Reduction of the Impact of untreated Waste Water on the Environment in case of torrential Rain
   group: ongoing
+  image: images/riwwer.png
   link: https://www.riwwer.fraunhofer.de/
   description: During heavy rainfall, polluted wastewater pollutes surface water bodies. We develop ML methods to better model sewer system dynamics. 
   tags:
     - infrastructure
+    - sustainability
     - tinyML
     - IoT
 
 - title: Synthetic Satellite Imagery
   subtitle: 
   group: ongoing
+  image: images/dsf.png
   link: https://bundesstiftung-friedensforschung.de/blog/citizen-based-monitoring-for-peace-security/
   description: Investigating risks and potential of synthetic satellite imagery for citizen-based monitoring. In collaboration 
   tags:
     - images
-    - synthetic data
+    - synthetic-data
+
 
 - title: GCA
   subtitle: Green Consumption Assistant
   description: Consumers often want to shop sustainably, but sustainability information is not available or trustworthy. In collaboration with [Prof. Tilman Santarius, TU Berlin](https://www.transformation.tu-berlin.de/menue/ueber_uns/prof_dr_tilman_santarius/) [ecosia](https://www.ecosia.org/) we develop ML solutions to provide scalable and trustworthy sustainability information to consumers at the point of sales. Funded by the [German Federal Ministry for the Environment](https://www.bmu.de/)
   group: completed
+  image: images/gca.png
   link: https://green-consumption-assistant.de/home-english/
   tags:
     - sustainability
     - tabular data
+    - data-quality
 
 - title: PWH
   subtitle: Forecasting Energy Cost Savings in Weather-Guided Heating Control
   description: Heating accounts for a major part of our CO2 emissions and can be reduced by accounting for local weather conditions. We develop ML methods to forecast energy savings for public buildings in Berlin. Funded by the [Berlin Senate](https://www.berlin.de/sen/uvk/) in collaboration with [Senercon](https://www.senercon.de/).
+  group: completed
+  image: images/pwh.png
+  github: https://github.com/calgo-lab/PWH
   tags:
     - infrastructure
-    - time series
+    - time-series
+    - sustainability

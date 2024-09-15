@@ -1,47 +1,34 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: KIP-SDM
+  subtitle: AI for Nursing Care
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/ai4care.png
+  link: https://ai4care.org/
+  description: We develop and evaluate ML methods for fall risk prediction in nursing care. 
   tags:
-    - resource
+    - health
+    - synthetic data
+    - fairness
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: ProKIP
+  subtitle: Process development and support for AI use in nursing care
+  link: https://prokip.care/
+  description: ProKIP accompanies, advises, networks and evaluates research projects in the BMBF funding program "Making repositories and AI systems usable in everyday nursing care".
+  tags:
+    - health
+
+- title: RIWWER
+  subtitle: Reduction of the Impact of untreated Waste Water on the Environment in case of torrential Rain
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://www.riwwer.fraunhofer.de/
+  description: The consequences of climate change have become visible in heavy rainfall events. During heavy rainfall, polluted wastewater enters the natural environment and leads to an increase in the concentration of pollutants in groundwater and rivers. In the RIWWER project, with funding from the German Federal Ministry of Economics and Climate, we are developing machine learning methods that use weather data and sensor data from the wastewater system to improve control of the wastewater system. The aim is to minimize the amount of pollutants that run off into groundwater and surface water.
   tags:
-    - resource
+    - infrastructure
+    - tinyML
+    - IoT
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Synthetic Satellite Imagery
+  subtitle: 
+  link: https://bundesstiftung-friedensforschung.de/blog/citizen-based-monitoring-for-peace-security/
+  description: In a future where synthetic digital media are indistinguishable from real data, issues of data authentication in monitoring and verification deserve a careful and systematic analysis. In this project, funded by the Deutsche Stiftung Friedensforschung (German Foundation for Peace Research), Prof. Dr. Felix Bießmann (Berliner Hochschule für Technik), Prof. Dr. Rebecca D. Frank (University of Tennessee, Knoxville), and Prof. Dr. Alexander Glaser (Princeton University) examine the potential role of citizen-based monitoring and verification for peace and security. This two-phase research project seeks to systematically assess the long-term opportunities for citizen-based monitoring using the important example of satellite imagery in the context of nuclear monitoring and verification, and to understand the risks and challenges, often enabled by these very same techniques and tools. Leveraging advanced machine-learning techniques to generate synthetic imagery of relevant sites, we can produce dedicated datasets under carefully controlled conditions. This imagery will then be used to develop and examine concrete monitoring scenarios. This will be followed by qualitative interviews and hands-on exercises with focus groups and data users in order to examine future challenges for citizen-based monitoring. We will place a particular emphasis on the possibility of image spoofing and fabricated data, examine broader ethical issues related to persistent earth observation, but also consider safeguards that could make citizen-based monitoring a viable and robust tool in support of peace and security.
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

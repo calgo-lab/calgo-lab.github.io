@@ -1,0 +1,16 @@
+- title: PoliTweets
+  subtitle: German Tweets annotated with political preferences
+  link: https://zenodo.org/doi/10.5281/zenodo.6570855
+  description: In collaboration with the [Manifesto Project at the WZB Berlin](https://manifesto-project.wzb.eu/) we annotated a large data set of German Tweets during the COVID pandemic.
+  tags:
+    - text
+    - politics
+
+- title: Weather guided heating control
+  subtitle: Energy consumption of public buildings in Berlin
+  link: https://github.com/calgo-lab/PWH
+  description: In collaboration with [Senercon](https://www.senercon.de/) we developed ML models to predict energy decrase potential for the heating consumption of public buildings in Berlin.
+  tags:
+    - infrastructure
+    - time series
+

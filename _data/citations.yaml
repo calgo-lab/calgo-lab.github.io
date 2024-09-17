@@ -83,8 +83,8 @@
   link: https://doi.org/m55c
   orcid: 0000-0002-3422-1026
   felix-biessmann: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-031-28241-6_19
   title: "Automated Extraction of\_Fine-Grained Standardized Product Information from\_\
     Unstructured Multilingual Web Data"
@@ -136,3 +136,262 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: arXiv:2409.03887
+  title: The Influence of Faulty Labels in Data Sets on Human Pose Estimation
+  authors:
+  - Arnold Schwarz
+  - Levente Hernadi
+  - "Felix Bie\xDFmann"
+  - Kristian Hildebrand
+  publisher: arXiv
+  date: '2024-09-10'
+  link: https://arxiv.org/abs/2409.03887
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2408.11619
+  title: 'Data-driven Modeling of Combined Sewer Systems for Urban Sustainability:
+    An Empirical Evaluation'
+  authors:
+  - Vipin Singh
+  - Tianheng Ling
+  - Teodor Chiaburu
+  - Felix Biessmann
+  publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
+  date: '2024-08-22'
+  link: https://arxiv.org/abs/2408.11619
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2407.21453
+  title: 'TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless
+    Acoustic Sensors'
+  authors:
+  - Zhaolan Huang
+  - Adrien Tousnakhoff
+  - Polina Kozyr
+  - Roman Rehausen
+  - "Felix Bie\xDFmann"
+  - Robert Lachlan
+  - Cedric Adjih
+  - Emmanuel Baccelli
+  publisher: IEEE International Symposium on the Internet of Sounds, Erlangen
+  date: '2024-09-12'
+  link: https://arxiv.org/abs/2407.21453
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2409.01138
+  title: 'Generating Synthetic Satellite Imagery for Rare Objects: An Empirical Comparison
+    of Models and Metrics'
+  authors:
+  - Tuong Vy Nguyen
+  - Johannes Hoster
+  - Alexander Glaser
+  - Kristian Hildebrand
+  - Felix Biessmann
+  publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
+  date: '2024-09-04'
+  link: https://arxiv.org/abs/2409.01138
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11023-024-09663-3
+  title: 'Towards Transnational Fairness in Machine Learning: A Case Study in Disaster
+    Response Systems'
+  authors:
+  - Cem Kozcuer
+  - Anne Mollen
+  - "Felix Bie\xDFmann"
+  publisher: Minds and Machines
+  date: '2024-05-09'
+  link: https://doi.org/gzb7n6
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://proceedings.mlr.press/v238/jager24a
+  title: "From Data Imputation to Data Cleaning \u2014 Automated Cleaning of Tabular\
+    \ Data Improves Downstream Predictive Performance"
+  authors:
+  - "Sebastian J\xE4ger"
+  - Felix Biessmann
+  publisher: Proceedings of The 27th International Conference on Artificial Intelligence
+    and Statistics
+  date: '2024-04-18'
+  link: https://proceedings.mlr.press/v238/jager24a.html
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_2/124
+  title: Can Sustainable Shopping Recommendations in Online Retail Help Reduce Global
+    Warming? Assessing the Direct and Indirect Climate Impact of Modern Software
+  authors:
+  - Marja Lena Hoffmann
+  - Ivana Nanevski
+  - Maike Gossen
+  - Jens Bergener
+  - Alexander Flick
+  - Tilman Santarius
+  - Felix Biessmann
+  publisher: Weizenbaum Journal of the Digital Society
+  date: '2024-04-25'
+  link: https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_2
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2404.18504
+  title: Multisensor Data Fusion for Automatized Insect Monitoring (KInsecta)
+  authors:
+  - Martin Tschaikner
+  - Danja Brandt
+  - Henning Schmidt
+  - "Felix Bie\xDFmann"
+  - Teodor Chiaburu
+  - Ilona Schrimpf
+  - Thomas Schrimpf
+  - Alexandra Stadel
+  - "Frank Hau\xDFer"
+  - Ingeborg Beckers
+  publisher: Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV
+  date: '2024-04-30'
+  link: https://arxiv.org/abs/2404.18504
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.14512/OEW380346
+  title: "Evaluating the Quality of ChatGPT\u2019s Climate-related Responses"
+  authors:
+  - Jens Bergener
+  - Maike Gossen
+  - Marja Lena Hoffmann
+  - "Felix Bie\xDFmann"
+  - Marek Veneny
+  - Ruben Korenke
+  publisher: "\xD6kologisches Wirtschaften - Fachzeitschrift"
+  date: '2023-09-08'
+  link: https://doi.org/gzht9v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ejrad.2023.110964
+  title: 'Metadata-independent classification of MRI sequences using convolutional
+    neural networks: Successful application to prostate MRI'
+  authors:
+  - "Georg L. Baumg\xE4rtner"
+  - Charlie A. Hamm
+  - Sophia Schulze-Weddige
+  - Richard Ruppel
+  - Nick L. Beetz
+  - Madhuri Rudolph
+  - "Franziska Dr\xE4ger"
+  - "Konrad P. Frob\xF6se"
+  - Helena Posch
+  - Julian Lenk
+  - Felix Biessmann
+  - Tobias Penzkofer
+  publisher: European Journal of Radiology
+  date: '2023-09-01'
+  link: https://doi.org/gzhvd7
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://link.springer.com/chapter/10.1007/978-3-658-39302-1_21
+  title: "Forschungs- und Entwicklungsprojekte in der Pflege erfolgreich planen und\
+    \ umsetzen \u2013 Voraussetzungen und Gelingensbedingungen am Beispiel des Einsatzes\
+    \ von k\xFCnstlicher Intelligenz"
+  authors:
+  - Dominik Domhoff
+  - Kathrin Seibert
+  - Lea Bergmann
+  - Sarah Theune
+  - "Felix Bie\xDFmann"
+  - "Daniel F\xFCrstenau"
+  - Matthias Schulte-Althoff
+  - Karin Wolf-Ostermann
+  publisher: "Pflegeinnovationen in der Praxis: Erfahrungen und Empfehlungen aus dem\
+    \ \u201ECluster Zukunft der Pflege\u201C"
+  date: '2023-01-01'
+  link: https://doi.org/10.1007/978-3-658-39302-1_21
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2404.11461
+  title: Using Game Engines and Machine Learning to Create Synthetic Satellite Imagery
+    for a Tabletop Verification Exercise
+  authors:
+  - Johannes Hoster
+  - Sara Al-Sayed
+  - Felix Biessmann
+  - Alexander Glaser
+  - Kristian Hildebrand
+  - Igor Moric
+  - Tuong Vy Nguyen
+  publisher: Annual Meeting of the Institute of Nuclear Materials Management (INMM),
+    Vienna
+  date: '2024-06-25'
+  link: https://arxiv.org/abs/2404.11461
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2404.07754
+  title: Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models
+    -- Technical Challenges and Implications for Monitoring and Verification
+  authors:
+  - Tuong Vy Nguyen
+  - Alexander Glaser
+  - Felix Biessmann
+  publisher: Annual Meeting of the Institute of Nuclear Materials Management (INMM),
+    Vienna
+  date: '2024-04-12'
+  link: https://arxiv.org/abs/2404.07754
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2204.10416
+  title: 'CycleSense: Detecting Near Miss Incidents in Bicycle Traffic from Mobile
+    Motion Sensors'
+  authors:
+  - Ahmet-Serdar Karakaya
+  - Thomas Ritter
+  - Felix Biessmann
+  - David Bermbach
+  publisher: Pervasive and Mobile Computing
+  date: '2023-03-15'
+  link: https://arxiv.org/abs/2204.10416
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.procs.2024.05.091
+  title: Interpretable Time Series Models for Wastewater Modeling in Combined Sewer
+    Overflows
+  authors:
+  - Teodor Chiaburu
+  - "Felix Bie\xDFmann"
+  publisher: Procedia Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/gzjnd9
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2308.04444
+  title: Changes in Policy Preferences in German Tweets during the COVID Pandemic
+  authors:
+  - Felix Biessmann
+  publisher: International Conference on Social Informatics
+  date: '2023-08-10'
+  link: https://arxiv.org/abs/2308.04444
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2207.10733
+  title: GreenDB -- A Dataset and Benchmark for Extraction of Sustainability Information
+    of Consumer Goods
+  authors:
+  - "Sebastian J\xE4ger"
+  - Alexander Flick
+  - Jessica Adriana Sanchez Garcia
+  - Kaspar von den Driesch
+  - Karl Brendel
+  - Felix Biessmann
+  publisher: DataPerf Workshop at the 39 th International Conference on Machine Learning,
+    Baltimore, Maryland, USA
+  date: '2022-08-17'
+  link: https://arxiv.org/abs/2207.10733
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2206.07497
+  title: 'Towards ML Methods for Biodiversity: A Novel Wild Bee Dataset and Evaluations
+    of XAI Methods for ML-Assisted Rare Species Annotations'
+  authors:
+  - Teodor Chiaburu
+  - Felix Biessmann
+  - Frank Hausser
+  publisher: Presented at XAI4CV Workshop at CVPR
+  date: '2022-06-16'
+  link: https://arxiv.org/abs/2206.07497
+  plugin: sources.py
+  file: sources.yaml

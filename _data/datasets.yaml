@@ -1,5 +1,6 @@
 - title: PoliTweets
   subtitle: German Tweets annotated with political preferences
+  image: images/politweets.png
   link: https://zenodo.org/doi/10.5281/zenodo.6570855
   description: In collaboration with the [Manifesto Project at the WZB Berlin](https://manifesto-project.wzb.eu/) we annotated a large data set of German Tweets during the COVID pandemic.
   tags:
@@ -8,6 +9,7 @@
 
 - title: Weather guided heating control
   subtitle: Energy consumption of public buildings in Berlin
+  image: images/pwh.png
   link: https://github.com/calgo-lab/PWH
   description: In collaboration with [Senercon](https://www.senercon.de/) we developed ML models to predict energy decrase potential for the heating consumption of public buildings in Berlin.
   tags:
@@ -16,6 +18,7 @@
 
 - title: GreenDB
   subtitle: Trustworthy sustainability information for consumer products
+  image: images/gca.png
   description: As a result of the [Green Consumption Assistant](https://green-consumption-assistant.de/home-english/) we built a large data base with reliable sustainability information. 
   link: https://calgo-lab.github.io/green-db/
   tags:

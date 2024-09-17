@@ -9,21 +9,31 @@
 - id: url:https://proceedings.mlr.press/v238/jager24a
 - id: url:https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_2/124
 - id: arxiv:2404.18504
+  date: 2023-01-01
   publisher: Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV
 - id: doi:10.14512/OEW380346
 - id: doi:10.1016/j.ejrad.2023.110964
 - id: url:https://link.springer.com/chapter/10.1007/978-3-658-39302-1_21
 - id: doi:10.1148/radiol.222276
 - id: arXiv:2404.11461
+  date: 2023-01-01
   publisher: Annual Meeting of the Institute of Nuclear Materials Management (INMM), Vienna
 - id: arXiv:2404.07754
+  date: 2023-01-01
   publisher: Annual Meeting of the Institute of Nuclear Materials Management (INMM), Vienna
 - id: arXiv:2204.10416 
   publisher: Pervasive and Mobile Computing
 - id: doi:10.1016/j.procs.2024.05.091
+  date: 2023-01-01
 - id: arxiv:2308.04444
+  date: 2022-01-01
   publisher: International Conference on Social Informatics
 - id: arxiv:2207.10733
   publisher: DataPerf Workshop at the 39 th International Conference on Machine Learning, Baltimore, Maryland, USA
 - id: arxiv:2206.07497
   publisher: Presented at XAI4CV Workshop at CVPR
+- id: doi:10.3389/frsus.2022.922984
+- id: arXiv:2205.02908
+- id: doi:10.1145/3487553.3524218
+- id: arXiv:2112.12444
+

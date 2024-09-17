@@ -246,7 +246,7 @@
   - "Frank Hau\xDFer"
   - Ingeborg Beckers
   publisher: Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV
-  date: '2024-04-30'
+  date: '2023-01-01'
   link: https://arxiv.org/abs/2404.18504
   plugin: sources.py
   file: sources.yaml
@@ -317,7 +317,7 @@
   - Tuong Vy Nguyen
   publisher: Annual Meeting of the Institute of Nuclear Materials Management (INMM),
     Vienna
-  date: '2024-06-25'
+  date: '2023-01-01'
   link: https://arxiv.org/abs/2404.11461
   plugin: sources.py
   file: sources.yaml
@@ -330,7 +330,7 @@
   - Felix Biessmann
   publisher: Annual Meeting of the Institute of Nuclear Materials Management (INMM),
     Vienna
-  date: '2024-04-12'
+  date: '2023-01-01'
   link: https://arxiv.org/abs/2404.07754
   plugin: sources.py
   file: sources.yaml
@@ -354,7 +354,7 @@
   - Teodor Chiaburu
   - "Felix Bie\xDFmann"
   publisher: Procedia Computer Science
-  date: '2024-01-01'
+  date: '2023-01-01'
   link: https://doi.org/gzjnd9
   plugin: sources.py
   file: sources.yaml
@@ -363,7 +363,7 @@
   authors:
   - Felix Biessmann
   publisher: International Conference on Social Informatics
-  date: '2023-08-10'
+  date: '2022-01-01'
   link: https://arxiv.org/abs/2308.04444
   plugin: sources.py
   file: sources.yaml
@@ -393,5 +393,61 @@
   publisher: Presented at XAI4CV Workshop at CVPR
   date: '2022-06-16'
   link: https://arxiv.org/abs/2206.07497
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/frsus.2022.922984
+  title: 'Nudging Sustainable Consumption: A Large-Scale Data Analysis of Sustainability
+    Labels for Fashion in German Online Retail'
+  authors:
+  - Maike Gossen
+  - "Sebastian J\xE4ger"
+  - Marja Lena Hoffmann
+  - "Felix Bie\xDFmann"
+  - Ruben Korenke
+  - Tilman Santarius
+  publisher: Frontiers in Sustainability
+  date: '2022-06-10'
+  link: https://doi.org/gzj739
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2205.02908
+  title: 'GreenDB: Toward a Product-by-Product Sustainability Database'
+  authors:
+  - "Sebastian J\xE4ger"
+  - Jessica Greene
+  - Max Jakob
+  - Ruben Korenke
+  - Tilman Santarius
+  - Felix Biessmann
+  publisher: arXiv
+  date: '2022-08-01'
+  link: https://arxiv.org/abs/2205.02908
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3487553.3524218
+  title: Search Filter Ranking with Language-Aware Label Embeddings
+  authors:
+  - Jacek Golebiowski
+  - Felice Antonio Merra
+  - Ziawasch Abedjan
+  - Felix Biessmann
+  publisher: Companion Proceedings of the Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gzj76v
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2112.12444
+  title: 'More Than Words: Towards Better Quality Interpretations of Text Classifiers'
+  authors:
+  - Muhammad Bilal Zafar
+  - Philipp Schmidt
+  - Michele Donini
+  - "C\xE9dric Archambeau"
+  - Felix Biessmann
+  - Sanjiv Ranjan Das
+  - Krishnaram Kenthapadi
+  publisher: arXiv
+  date: '2021-12-24'
+  link: https://arxiv.org/abs/2112.12444
   plugin: sources.py
   file: sources.yaml

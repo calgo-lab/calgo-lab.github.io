@@ -6,4 +6,4 @@ links:
   github: philipp-jung
 ---
 
-
+Philipp researches questions of data quality.

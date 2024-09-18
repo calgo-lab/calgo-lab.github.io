@@ -36,4 +36,16 @@
 - id: arXiv:2205.02908
 - id: doi:10.1145/3487553.3524218
 - id: arXiv:2112.12444
-
+- id: doi:10.3389/fdata.2021.693674
+- id: arXiv:2106.11394
+  publisher: Proceedings of the ICML Workshop on Theoretical Foundations, Criticism, and Application Trends of Explainable AI held in conjunction with the 38th International Conference on Machine Learning (ICML)
+- id: arXiv:2107.02033
+  publisher: Proceedings of the ICML Workshop on Theoretical Foundations, Criticism, and Application Trends of Explainable AI held in conjunction with the 38th International Conference on Machine Learning (ICML)
+- id: doi:10.1145/3448016.3457295
+- id: url:https://www.amazon.science/publications/automated-data-validation-in-machine-learning-systems
+  publisher: IEEE Data Engineering Bulletin
+- id: doi:10.1145/3430524.34424
+- id: arXiv:2407.05788
+  publisher: ECML/PKDD Workshop on Automating Data Science
+- id: url:https://www.amazon.science/publications/jenga-a-framework-to-study-the-impact-of-data-errors-on-the-predictions-of-machine-learning-models
+  publisher: 24th International Conference on Extending Database Technology (EDBT)

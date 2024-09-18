@@ -451,3 +451,90 @@
   link: https://arxiv.org/abs/2112.12444
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3389/fdata.2021.693674
+  title: A Benchmark for Data Imputation Methods
+  authors:
+  - "Sebastian J\xE4ger"
+  - Arndt Allhorn
+  - "Felix Bie\xDFmann"
+  publisher: Frontiers in Big Data
+  date: '2021-07-08'
+  link: https://doi.org/gz34ds
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2106.11394
+  title: A Turing Test for Transparency
+  authors:
+  - Felix Biessmann
+  - Viktor Treu
+  publisher: Proceedings of the ICML Workshop on Theoretical Foundations, Criticism,
+    and Application Trends of Explainable AI held in conjunction with the 38th International
+    Conference on Machine Learning (ICML)
+  date: '2021-06-23'
+  link: https://arxiv.org/abs/2106.11394
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2107.02033
+  title: Quality Metrics for Transparent Machine Learning With and Without Humans
+    In the Loop Are Not Correlated
+  authors:
+  - Felix Biessmann
+  - Dionysius Refiano
+  publisher: Proceedings of the ICML Workshop on Theoretical Foundations, Criticism,
+    and Application Trends of Explainable AI held in conjunction with the 38th International
+    Conference on Machine Learning (ICML)
+  date: '2021-07-06'
+  link: https://arxiv.org/abs/2107.02033
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3448016.3457295
+  title: 'Enforcing Constraints for Machine Learning Systems via Declarative Feature
+    Selection: An Experimental Study'
+  authors:
+  - Felix Neutatz
+  - Felix Biessmann
+  - Ziawasch Abedjan
+  publisher: Proceedings of the 2021 International Conference on Management of Data
+  date: '2021-06-09'
+  link: https://doi.org/gz35d6
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://www.amazon.science/publications/automated-data-validation-in-machine-learning-systems
+  title: Automated data validation in machine learning systems
+  authors:
+  - Felix Biessmann
+  - Jacek Golebiowski
+  - Tammo Rukat
+  - Dustin Lange
+  - Philipp Schmidt
+  publisher: IEEE Data Engineering Bulletin
+  date: '2021-01-01'
+  link: https://www.amazon.science/publications/automated-data-validation-in-machine-learning-systems
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3430524.34424
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2407.05788
+  title: Automated Computational Energy Minimization of ML Algorithms using Constrained
+    Bayesian Optimization
+  authors:
+  - Pallavi Mitra
+  - Felix Biessmann
+  publisher: ECML/PKDD Workshop on Automating Data Science
+  date: '2024-07-09'
+  link: https://arxiv.org/abs/2407.05788
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://www.amazon.science/publications/jenga-a-framework-to-study-the-impact-of-data-errors-on-the-predictions-of-machine-learning-models
+  title: 'JENGA: A framework to study the impact of data errors on the predictions
+    of machine learning models'
+  authors:
+  - Sebastian Schelter
+  - Tammo Rukat
+  - Felix Biessmann
+  publisher: 24th International Conference on Extending Database Technology (EDBT)
+  date: '2021-01-01'
+  link: https://www.amazon.science/publications/jenga-a-framework-to-study-the-impact-of-data-errors-on-the-predictions-of-machine-learning-models
+  plugin: sources.py
+  file: sources.yaml

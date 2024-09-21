@@ -159,6 +159,10 @@
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
   date: '2024-08-22'
   link: https://arxiv.org/abs/2408.11619
+  tags:
+  - sustainability
+  - infrastructure
+  - time series
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2407.21453
@@ -176,6 +180,10 @@
   publisher: IEEE International Symposium on the Internet of Sounds, Erlangen
   date: '2024-09-12'
   link: https://arxiv.org/abs/2407.21453
+  tags:
+  - sustainability
+  - audio
+  - biodiversity
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2409.01138
@@ -190,6 +198,10 @@
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
   date: '2024-09-04'
   link: https://arxiv.org/abs/2409.01138
+  tags:
+  - synthetic-data
+  - vision
+  - perception
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11023-024-09663-3

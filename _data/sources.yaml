@@ -1,10 +1,22 @@
 - id: arXiv:2409.03887
 - id: arXiv:2408.11619
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
+  tags: 
+    - sustainability
+    - infrastructure
+    - time series
 - id: arXiv:2407.21453
   publisher: IEEE International Symposium on the Internet of Sounds, Erlangen
+  tags: 
+    - sustainability
+    - audio
+    - biodiversity
 - id: arxiv:2409.01138
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
+  tags: 
+    - synthetic-data
+    - vision
+    - perception
 - id: doi:10.1007/s11023-024-09663-3
 - id: url:https://proceedings.mlr.press/v238/jager24a
 - id: url:https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_2/124

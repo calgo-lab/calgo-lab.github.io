@@ -23,5 +23,22 @@
   link: https://calgo-lab.github.io/green-db/
   tags:
     - sustainability
-    - tabular data 
+    - tabular
 
+- title: TinyChirp
+  subtitle: Bird song classification with tinyML
+  description: Collection of audio data for training TinyChirp models to monitor biodiversity. 
+  link: https://www.kaggle.com/datasets/zhaolanhuang/tinychirp
+  tags: 
+    - sustainability
+    - biodiversity
+    - audio
+
+- title: beeexplainable
+  subtitle: Segmented bee images for XAI research
+  image: https://github.com/TeodorChiaburu/beexplainable/raw/main/figures/input_transforms/lstudio_masks.gif
+  link: https://github.com/TeodorChiaburu/beexplainable
+  tags:
+    - sustainability
+    - biodiversity
+    - vision

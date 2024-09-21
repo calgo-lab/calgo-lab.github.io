@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Data Sets
 
 
-{% include tags.html tags="text, tabular, images" %}
+{% include tags.html tags="text, tabular, vision" %}
 
 {% include search-info.html %}
 

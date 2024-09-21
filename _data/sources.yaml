@@ -49,3 +49,11 @@
   publisher: ECML/PKDD Workshop on Automating Data Science
 - id: url:https://www.amazon.science/publications/jenga-a-framework-to-study-the-impact-of-data-errors-on-the-predictions-of-machine-learning-models
   publisher: 24th International Conference on Extending Database Technology (EDBT)
+- id: doi:10.1080/12460125.2020.1819094
+- id: doi:10.1109/EMBC44109.2020.9176083
+- id: doi:10.1145/3318464.3380604
+- id: arxiv:2006.08368
+- id: url:https://link.springer.com/chapter/10.1007/978-3-030-57321-8_24
+- id: url:https://www.amazon.science/publications/towards-automated-data-quality-management-for-machine-learning
+  publisher: MLSys 2020 Workshop on MLOps Systems
+

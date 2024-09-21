@@ -538,3 +538,91 @@
   link: https://www.amazon.science/publications/jenga-a-framework-to-study-the-impact-of-data-errors-on-the-predictions-of-machine-learning-models
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1080/12460125.2020.1819094
+  title: Transparency and trust in artificial intelligence systems
+  authors:
+  - Philipp Schmidt
+  - Felix Biessmann
+  - Timm Teubner
+  publisher: Journal of Decision Systems
+  date: '2020-09-10'
+  link: https://doi.org/gsjtdz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/EMBC44109.2020.9176083
+  title: 'Inter-subject correlations during natural viewing: A filter-bank approach'
+  authors:
+  - Arslan Gait
+  - Vladimir Duisenbinov
+  - Min-Ho Lee
+  - Felix Biesmann
+  - Siamac Fazli
+  publisher: 2020 42nd Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2020-07-01'
+  link: https://doi.org/g3rdc6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3318464.3380604
+  title: Learning to Validate the Predictions of Black Box Classifiers on Unseen Data
+  authors:
+  - Sebastian Schelter
+  - Tammo Rukat
+  - Felix Biessmann
+  publisher: Proceedings of the 2020 ACM SIGMOD International Conference on Management
+    of Data
+  date: '2020-05-31'
+  link: https://doi.org/gn3skj
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2006.08368
+  title: Sensor Artificial Intelligence and its Application to Space Systems -- A
+    White Paper
+  authors:
+  - "Anko B\xF6rner"
+  - "Heinz-Wilhelm H\xFCbers"
+  - Odej Kao
+  - Florian Schmidt
+  - "S\xF6ren Becker"
+  - Joachim Denzler
+  - Daniel Matolin
+  - David Haber
+  - Sergio Lucia
+  - Wojciech Samek
+  - Rudolph Triebel
+  - "Sascha Eichst\xE4dt"
+  - Felix Biessmann
+  - Anna Kruspe
+  - Peter Jung
+  - Manon Kok
+  - Guillermo Gallego
+  - Ralf Berger
+  publisher: arXiv
+  date: '2020-06-16'
+  link: https://arxiv.org/abs/2006.08368
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://link.springer.com/chapter/10.1007/978-3-030-57321-8_24
+  title: 'Calibrating Human-AI Collaboration: Impact of Risk, Ambiguity and Transparency
+    on Algorithmic Bias'
+  authors:
+  - Philipp Schmidt
+  - Felix Biessmann
+  publisher: Machine Learning and Knowledge Extraction
+  date: '2020-01-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-030-57321-8_24
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://www.amazon.science/publications/towards-automated-data-quality-management-for-machine-learning
+  title: 'Towards automated ML model monitoring: Measure, improve and quantify data
+    quality'
+  authors:
+  - Tammo Rukat
+  - Dustin Lange
+  - Sebastian Schelter
+  - Felix Biessmann
+  publisher: MLSys 2020 Workshop on MLOps Systems
+  date: '2020-01-01'
+  link: https://www.amazon.science/publications/towards-automated-data-quality-management-for-machine-learning
+  plugin: sources.py
+  file: sources.yaml

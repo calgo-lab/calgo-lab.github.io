@@ -512,7 +512,24 @@
   link: https://www.amazon.science/publications/automated-data-validation-in-machine-learning-systems
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3430524.34424
+- id: doi:10.1145/3430524.3442451
+  title: 'An Interactive Garment for Orchestra Conducting: IoT-enabled Textile &amp;
+    Machine Learning to Direct Musical Performance'
+  authors:
+  - Berit Greinke
+  - Giorgia Petri
+  - Pauline Vierne
+  - Paul Biessmann
+  - "Alexandra B\xF6rner"
+  - Kaspar Schleiser
+  - Emmanuel Baccelli
+  - Claas Krause
+  - Christopher Verworner
+  - Felix Biessmann
+  publisher: Proceedings of the Fifteenth International Conference on Tangible, Embedded,
+    and Embodied Interaction
+  date: '2021-02-14'
+  link: https://doi.org/g3rkzj
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2407.05788

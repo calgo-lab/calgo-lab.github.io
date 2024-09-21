@@ -44,7 +44,7 @@
 - id: doi:10.1145/3448016.3457295
 - id: url:https://www.amazon.science/publications/automated-data-validation-in-machine-learning-systems
   publisher: IEEE Data Engineering Bulletin
-- id: doi:10.1145/3430524.34424
+- id: doi:10.1145/3430524.3442451
 - id: arXiv:2407.05788
   publisher: ECML/PKDD Workshop on Automating Data Science
 - id: url:https://www.amazon.science/publications/jenga-a-framework-to-study-the-impact-of-data-errors-on-the-predictions-of-machine-learning-models

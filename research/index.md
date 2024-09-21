@@ -11,8 +11,4 @@ nav:
 
 Complete list of publications on [GoogleScholar](https://scholar.google.com/citations?hl=de&user=EGQ9w8gAAAAJ&view_op=list_works&sortby=pubdate)
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
 {% include list.html data="citations" component="citation"%}

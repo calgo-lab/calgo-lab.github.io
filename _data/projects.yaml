@@ -42,6 +42,17 @@
     - images
     - synthetic-data
 
+- title: Political text analysis
+  subtitle: 
+  group: ongoing
+  image: 
+  link: https://huggingface.co/spaces/rejtrace/politweets
+  description: We finetuned [the Manifestoberta model](https://huggingface.co/manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2023-1-1) of the [WZB Berlin](https://manifesto-project.wzb.eu/) on our PoliTweets dataset to predict the political leaning of a text. 
+  tags:
+    - politics
+    - tweets
+    - text
+
 
 - title: GCA
   subtitle: Green Consumption Assistant

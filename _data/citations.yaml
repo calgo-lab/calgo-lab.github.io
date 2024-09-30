@@ -551,7 +551,7 @@
   - Pallavi Mitra
   - Felix Biessmann
   publisher: ECML/PKDD Workshop on Automating Data Science
-  date: '2024-07-09'
+  date: '2021-05-01'
   link: https://arxiv.org/abs/2407.05788
   plugin: sources.py
   file: sources.yaml

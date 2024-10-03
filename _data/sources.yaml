@@ -1,3 +1,5 @@
+- id: arXiv:2409.17157
+  publisher: AIMLAI Workshop, ECML 2024, Vilnius
 - id: arXiv:2409.03887
 - id: arXiv:2408.11619
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
@@ -18,6 +20,7 @@
     - vision
     - perception
 - id: doi:10.1007/s11023-024-09663-3
+  publisher: European Conference on Information Retrieval
 - id: url:https://proceedings.mlr.press/v238/jager24a
 - id: url:https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_2/124
 - id: arxiv:2404.18504
@@ -26,6 +29,7 @@
 - id: doi:10.14512/OEW380346
 - id: doi:10.1016/j.ejrad.2023.110964
 - id: url:https://link.springer.com/chapter/10.1007/978-3-658-39302-1_21
+  publisher: World Conference on Explainable Artificial Intelligence
 - id: doi:10.1148/radiol.222276
 - id: arXiv:2404.11461
   date: 2023-01-01
@@ -67,6 +71,7 @@
 - id: doi:10.1145/3318464.3380604
 - id: arxiv:2006.08368
 - id: url:https://link.springer.com/chapter/10.1007/978-3-030-57321-8_24
+  publisher: International Cross-Domain Conference for Machine Learning and Knowledge Extraction
 - id: url:https://www.amazon.science/publications/towards-automated-data-quality-management-for-machine-learning
   publisher: MLSys 2020 Workshop on MLOps Systems
 

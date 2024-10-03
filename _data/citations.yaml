@@ -136,6 +136,18 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: arXiv:2409.17157
+  title: Confident Teacher, Confident Student? A Novel User Study Design for Investigating
+    the Didactic Potential of Explanations and their Impact on Uncertainty
+  authors:
+  - Teodor Chiaburu
+  - "Frank Hau\xDFer"
+  - "Felix Bie\xDFmann"
+  publisher: AIMLAI Workshop, ECML 2024, Vilnius
+  date: '2024-09-27'
+  link: https://arxiv.org/abs/2409.17157
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2409.03887
   title: The Influence of Faulty Labels in Data Sets on Human Pose Estimation
   authors:
@@ -211,7 +223,7 @@
   - Cem Kozcuer
   - Anne Mollen
   - "Felix Bie\xDFmann"
-  publisher: Minds and Machines
+  publisher: European Conference on Information Retrieval
   date: '2024-05-09'
   link: https://doi.org/gzb7n6
   plugin: sources.py
@@ -310,8 +322,7 @@
   - "Daniel F\xFCrstenau"
   - Matthias Schulte-Althoff
   - Karin Wolf-Ostermann
-  publisher: "Pflegeinnovationen in der Praxis: Erfahrungen und Empfehlungen aus dem\
-    \ \u201ECluster Zukunft der Pflege\u201C"
+  publisher: World Conference on Explainable Artificial Intelligence
   date: '2023-01-01'
   link: https://doi.org/10.1007/978-3-658-39302-1_21
   plugin: sources.py
@@ -637,7 +648,8 @@
   authors:
   - Philipp Schmidt
   - Felix Biessmann
-  publisher: Machine Learning and Knowledge Extraction
+  publisher: International Cross-Domain Conference for Machine Learning and Knowledge
+    Extraction
   date: '2020-01-01'
   link: https://link.springer.com/chapter/10.1007/978-3-030-57321-8_24
   plugin: sources.py

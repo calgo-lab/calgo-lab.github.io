@@ -6,8 +6,8 @@ links:
   github: TeodorChiaburu
   url: https://teodorchiaburu.github.io/
 aliases:
-  T Chiaburu 
-  Teo Chiaburu
+  - T Chiaburu 
+  - Teo Chiaburu
 ---
 
 

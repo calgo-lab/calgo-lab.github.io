@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2196/preprints.68033
+  title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
+    \ Risk Assessment (Preprint)"
+  authors:
+  - Ivana Nanevski
+  - "Sebastian J\xE4ger"
+  - Matthias Schulte-Althoff
+  - Eva-Maria Behnke
+  - "Daniel F\xFCrstenau"
+  - Felix Biessmann
+  publisher: JMIR Publications Inc.
+  date: '2024-10-26'
+  link: https://doi.org/g8pzsv
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/make6020055
   title: 'Uncertainty in XAI: Human Perception and Modeling Approaches'
   authors:

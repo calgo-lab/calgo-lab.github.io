@@ -30,9 +30,6 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
-      - name: Check runner type
-        run: echo "Runner labels: $RUNNER_LABELS"
-
       - name: Install system Ruby dependencies
         run: sudo apt update && sudo apt install -y ruby-full
 

@@ -30,6 +30,9 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
+      - name: Install system Ruby dependencies
+        run: sudo apt update && sudo apt install -y ruby-full
+
       - name: Install Ruby packages
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1

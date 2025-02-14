@@ -1,7 +1,7 @@
 ---
 name: Nicholas Chandler
-image: images/nick.jpeg
-description: Research Assistant
+image: images/nick.jpg
+description: Student
 role: programmer
 links:
   home-page: https://chandlernick.github.io

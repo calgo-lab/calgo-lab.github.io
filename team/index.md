@@ -11,7 +11,10 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!alumnus|pi$)" %}
 
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
+
+{% include list.html data="members" component="portrait" filters="role: alumnus" %}
 {% include section.html background="images/background.jpg" dark=true %}
 

@@ -175,8 +175,8 @@
     the Didactic Potential of Explanations and their Impact on Uncertainty
   authors:
   - Teodor Chiaburu
-  - "Frank Hau\xDFer"
-  - "Felix Bie\xDFmann"
+  - "Frank Hau\xC3\x9Fer"
+  - "Felix Bie\xC3\x9Fmann"
   publisher: AIMLAI Workshop, ECML 2024, Vilnius
   date: '2024-09-27'
   link: https://arxiv.org/abs/2409.17157
@@ -187,7 +187,7 @@
   authors:
   - Arnold Schwarz
   - Levente Hernadi
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Kristian Hildebrand
   publisher: arXiv
   date: '2024-09-10'
@@ -203,7 +203,7 @@
   - Teodor Chiaburu
   - Felix Biessmann
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
-  date: '2024-09-19'
+  date: '2025-02-14'
   link: https://arxiv.org/abs/2408.11619
   plugin: sources.py
   file: sources.yaml
@@ -215,7 +215,7 @@
   - Adrien Tousnakhoff
   - Polina Kozyr
   - Roman Rehausen
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Robert Lachlan
   - Cedric Adjih
   - Emmanuel Baccelli
@@ -284,12 +284,12 @@
   - Martin Tschaikner
   - Danja Brandt
   - Henning Schmidt
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Teodor Chiaburu
   - Ilona Schrimpf
   - Thomas Schrimpf
   - Alexandra Stadel
-  - "Frank Hau\xDFer"
+  - "Frank Hau\xC3\x9Fer"
   - Ingeborg Beckers
   publisher: Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV
   date: '2023-01-01'
@@ -416,7 +416,7 @@
   title: GreenDB -- A Dataset and Benchmark for Extraction of Sustainability Information
     of Consumer Goods
   authors:
-  - "Sebastian J\xE4ger"
+  - "Sebastian J\xC3\xA4ger"
   - Alexander Flick
   - Jessica Adriana Sanchez Garcia
   - Kaspar von den Driesch
@@ -458,7 +458,7 @@
 - id: arXiv:2205.02908
   title: 'GreenDB: Toward a Product-by-Product Sustainability Database'
   authors:
-  - "Sebastian J\xE4ger"
+  - "Sebastian J\xC3\xA4ger"
   - Jessica Greene
   - Max Jakob
   - Ruben Korenke
@@ -487,7 +487,7 @@
   - Muhammad Bilal Zafar
   - Philipp Schmidt
   - Michele Donini
-  - "C\xE9dric Archambeau"
+  - "C\xC3\xA9dric Archambeau"
   - Felix Biessmann
   - Sanjiv Ranjan Das
   - Krishnaram Kenthapadi
@@ -641,18 +641,18 @@
   title: Sensor Artificial Intelligence and its Application to Space Systems -- A
     White Paper
   authors:
-  - "Anko B\xF6rner"
-  - "Heinz-Wilhelm H\xFCbers"
+  - "Anko B\xC3\xB6rner"
+  - "Heinz-Wilhelm H\xC3\xBCbers"
   - Odej Kao
   - Florian Schmidt
-  - "S\xF6ren Becker"
+  - "S\xC3\xB6ren Becker"
   - Joachim Denzler
   - Daniel Matolin
   - David Haber
   - Sergio Lucia
   - Wojciech Samek
   - Rudolph Triebel
-  - "Sascha Eichst\xE4dt"
+  - "Sascha Eichst\xC3\xA4dt"
   - Felix Biessmann
   - Anna Kruspe
   - Peter Jung

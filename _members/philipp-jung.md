@@ -4,6 +4,7 @@ image: images/philipp.jpeg
 role: phd
 links:
   github: philipp-jung
+  home-page: https://pljung.de/
 ---
 
-Philipp researches questions of data quality.
+Philipp applies machine learning methods to the domain of data cleaning.

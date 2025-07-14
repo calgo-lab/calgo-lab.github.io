@@ -170,13 +170,46 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: arxiv:2504.17461
+  title: 'Evaluating Time Series Models for Urban Wastewater Management: Predictive
+    Performance, Model Complexity and Resilience'
+  authors:
+  - Vipin Singh
+  - Tianheng Ling
+  - Teodor Chiaburu
+  - Felix Biessmann
+  publisher: 10th International Conference on Smart and Sustainable Technologies
+  date: '2025-04-25'
+  link: https://arxiv.org/abs/2504.17461
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://www.researchgate.net/profile/Sergey-Yurish/publication/390831248_Artificial_Intelligence_in_Medicine_and_Healthcare_Proceedings_of_the_1st_International_Conference_on_AI_in_Medicine_and_Healthcare_AiMH'_2025_8-10_April_2025_Innsbruck_Austria/links/67ff7dcad1054b0207d4b4b5/Artificial-Intelligence-in-Medicine-and-Healthcare-Proceedings-of-the-1st-International-Conference-on-AI-in-Medicine-and-Healthcare-AiMH-2025-8-10-April-2025-Innsbruck-Austria.pdf#page=99
+  title: ''
+  authors: []
+  publisher: International Conference on AI in Medicine and Healthcare (AiMH' 2025)
+  date: ''
+  link: https://www.researchgate.net/profile/Sergey-Yurish/publication/390831248_Artificial_Intelligence_in_Medicine_and_Healthcare_Proceedings_of_the_1st_International_Conference_on_AI_in_Medicine_and_Healthcare_AiMH'_2025_8-10_April_2025_Innsbruck_Austria/links/67ff7dcad1054b0207d4b4b5/Artificial-Intelligence-in-Medicine-and-Healthcare-Proceedings-of-the-1st-International-Conference-on-AI-in-Medicine-and-Healthcare-AiMH-2025-8-10-April-2025-Innsbruck-Austria.pdf#page=99
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2504.03736
+  title: 'Uncertainty Propagation in XAI: A Comparison of Analytical and Empirical
+    Estimators'
+  authors:
+  - Teodor Chiaburu
+  - "Felix Bie\xC3\x9Fmann"
+  - "Frank Hau\xC3\x9Fer"
+  publisher: 3rd World Conference on eXplainable Artificial Intelligence (XAI-2025)
+  date: '2025-04-08'
+  link: https://arxiv.org/abs/2504.03736
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2409.17157
   title: Confident Teacher, Confident Student? A Novel User Study Design for Investigating
     the Didactic Potential of Explanations and their Impact on Uncertainty
   authors:
   - Teodor Chiaburu
-  - "Frank Hau\xDFer"
-  - "Felix Bie\xDFmann"
+  - "Frank Hau\xC3\x9Fer"
+  - "Felix Bie\xC3\x9Fmann"
   publisher: AIMLAI Workshop, ECML 2024, Vilnius
   date: '2024-09-27'
   link: https://arxiv.org/abs/2409.17157
@@ -187,7 +220,7 @@
   authors:
   - Arnold Schwarz
   - Levente Hernadi
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Kristian Hildebrand
   publisher: arXiv
   date: '2024-09-10'
@@ -203,7 +236,7 @@
   - Teodor Chiaburu
   - Felix Biessmann
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
-  date: '2024-09-19'
+  date: '2025-02-14'
   link: https://arxiv.org/abs/2408.11619
   plugin: sources.py
   file: sources.yaml
@@ -215,7 +248,7 @@
   - Adrien Tousnakhoff
   - Polina Kozyr
   - Roman Rehausen
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Robert Lachlan
   - Cedric Adjih
   - Emmanuel Baccelli
@@ -284,12 +317,12 @@
   - Martin Tschaikner
   - Danja Brandt
   - Henning Schmidt
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Teodor Chiaburu
   - Ilona Schrimpf
   - Thomas Schrimpf
   - Alexandra Stadel
-  - "Frank Hau\xDFer"
+  - "Frank Hau\xC3\x9Fer"
   - Ingeborg Beckers
   publisher: Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV
   date: '2023-01-01'
@@ -416,7 +449,7 @@
   title: GreenDB -- A Dataset and Benchmark for Extraction of Sustainability Information
     of Consumer Goods
   authors:
-  - "Sebastian J\xE4ger"
+  - "Sebastian J\xC3\xA4ger"
   - Alexander Flick
   - Jessica Adriana Sanchez Garcia
   - Kaspar von den Driesch
@@ -458,7 +491,7 @@
 - id: arXiv:2205.02908
   title: 'GreenDB: Toward a Product-by-Product Sustainability Database'
   authors:
-  - "Sebastian J\xE4ger"
+  - "Sebastian J\xC3\xA4ger"
   - Jessica Greene
   - Max Jakob
   - Ruben Korenke
@@ -487,7 +520,7 @@
   - Muhammad Bilal Zafar
   - Philipp Schmidt
   - Michele Donini
-  - "C\xE9dric Archambeau"
+  - "C\xC3\xA9dric Archambeau"
   - Felix Biessmann
   - Sanjiv Ranjan Das
   - Krishnaram Kenthapadi
@@ -641,18 +674,18 @@
   title: Sensor Artificial Intelligence and its Application to Space Systems -- A
     White Paper
   authors:
-  - "Anko B\xF6rner"
-  - "Heinz-Wilhelm H\xFCbers"
+  - "Anko B\xC3\xB6rner"
+  - "Heinz-Wilhelm H\xC3\xBCbers"
   - Odej Kao
   - Florian Schmidt
-  - "S\xF6ren Becker"
+  - "S\xC3\xB6ren Becker"
   - Joachim Denzler
   - Daniel Matolin
   - David Haber
   - Sergio Lucia
   - Wojciech Samek
   - Rudolph Triebel
-  - "Sascha Eichst\xE4dt"
+  - "Sascha Eichst\xC3\xA4dt"
   - Felix Biessmann
   - Anna Kruspe
   - Peter Jung

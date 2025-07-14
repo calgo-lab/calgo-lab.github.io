@@ -13,10 +13,11 @@
   publisher: JMIR Publications Inc.
   date: '2025-01-08'
   link: https://doi.org/g82fpg
-  orcid: 0000-0002-3422-1026
+  orcid: 0000-0001-9420-8571
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+  sebastian-jaeger: true
 - id: doi:10.2196/preprints.68033
   title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
     \ Risk Assessment (Preprint)"
@@ -130,10 +131,11 @@
   publisher: Lecture Notes in Computer Science
   date: '2023-01-01'
   link: https://doi.org/gw4p6r
-  orcid: 0000-0002-3422-1026
+  orcid: 0000-0001-9420-8571
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+  sebastian-jaeger: true
 - id: doi:10.2196/26522
   title: 'Application Scenarios for Artificial Intelligence in Nursing Care: Rapid
     Review'
@@ -170,13 +172,107 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/frsus.2022.922984
+  title: 'Nudging Sustainable Consumption: A Large-Scale Data Analysis of Sustainability
+    Labels for Fashion in German Online Retail'
+  authors:
+  - Maike Gossen
+  - "Sebastian J\xE4ger"
+  - Marja Lena Hoffmann
+  - "Felix Bie\xDFmann"
+  - Ruben Korenke
+  - Tilman Santarius
+  publisher: Frontiers in Sustainability
+  date: '2022-06-10'
+  link: https://doi.org/gzj739
+  orcid: 0000-0001-9420-8571
+  sebastian-jaeger: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5281/ZENODO.6576662
+  title: 'GreenDB: A Product-by-Product Sustainability Database'
+  authors:
+  - "Sebastian J\xE4ger"
+  - "Felix Bie\xDFmann"
+  - Alexander Flick
+  - Jessica Adriana Sanchez Garcia
+  - Kaspar von den Driesch
+  - Karl Brendel
+  publisher: Zenodo
+  date: '2022-05-24'
+  link: https://doi.org/g4x59c
+  orcid: 0000-0001-9420-8571
+  sebastian-jaeger: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2207.10733
+  title: GreenDB -- A Dataset and Benchmark for Extraction of Sustainability Information
+    of Consumer Goods
+  authors:
+  - "Sebastian J\xE4ger"
+  - Alexander Flick
+  - Jessica Adriana Sanchez Garcia
+  - Kaspar von den Driesch
+  - Karl Brendel
+  - Felix Biessmann
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g4x59t
+  orcid: 0000-0001-9420-8571
+  sebastian-jaeger: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2205.02908
+  title: 'GreenDB: Toward a Product-by-Product Sustainability Database'
+  authors:
+  - "Sebastian J\xE4ger"
+  - Jessica Greene
+  - Max Jakob
+  - Ruben Korenke
+  - Tilman Santarius
+  - Felix Biessmann
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g4x596
+  orcid: 0000-0001-9420-8571
+  sebastian-jaeger: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fdata.2021.693674
+  title: A Benchmark for Data Imputation Methods
+  authors:
+  - "Sebastian J\xE4ger"
+  - Arndt Allhorn
+  - "Felix Bie\xDFmann"
+  publisher: Frontiers in Big Data
+  date: '2021-07-08'
+  link: https://doi.org/gz34ds
+  orcid: 0000-0001-9420-8571
+  sebastian-jaeger: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3286490.3286561
+  title: Parallelized Training of Deep NN
+  authors:
+  - "Sebastian J\xE4ger"
+  - Hans-Peter Zorn
+  - Stefan Igel
+  - Christian Zirpins
+  publisher: Proceedings of the Second Workshop on Distributed Infrastructures for
+    Deep Learning
+  date: '2018-12-10'
+  link: https://doi.org/g4x6bj
+  orcid: 0000-0001-9420-8571
+  sebastian-jaeger: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: arXiv:2409.17157
   title: Confident Teacher, Confident Student? A Novel User Study Design for Investigating
     the Didactic Potential of Explanations and their Impact on Uncertainty
   authors:
   - Teodor Chiaburu
-  - "Frank Hau\xDFer"
-  - "Felix Bie\xDFmann"
+  - "Frank Hau\xC3\x9Fer"
+  - "Felix Bie\xC3\x9Fmann"
   publisher: AIMLAI Workshop, ECML 2024, Vilnius
   date: '2024-09-27'
   link: https://arxiv.org/abs/2409.17157
@@ -187,7 +283,7 @@
   authors:
   - Arnold Schwarz
   - Levente Hernadi
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Kristian Hildebrand
   publisher: arXiv
   date: '2024-09-10'
@@ -203,7 +299,7 @@
   - Teodor Chiaburu
   - Felix Biessmann
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
-  date: '2024-09-19'
+  date: '2025-02-14'
   link: https://arxiv.org/abs/2408.11619
   plugin: sources.py
   file: sources.yaml
@@ -215,7 +311,7 @@
   - Adrien Tousnakhoff
   - Polina Kozyr
   - Roman Rehausen
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Robert Lachlan
   - Cedric Adjih
   - Emmanuel Baccelli
@@ -284,12 +380,12 @@
   - Martin Tschaikner
   - Danja Brandt
   - Henning Schmidt
-  - "Felix Bie\xDFmann"
+  - "Felix Bie\xC3\x9Fmann"
   - Teodor Chiaburu
   - Ilona Schrimpf
   - Thomas Schrimpf
   - Alexandra Stadel
-  - "Frank Hau\xDFer"
+  - "Frank Hau\xC3\x9Fer"
   - Ingeborg Beckers
   publisher: Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV
   date: '2023-01-01'
@@ -416,7 +512,7 @@
   title: GreenDB -- A Dataset and Benchmark for Extraction of Sustainability Information
     of Consumer Goods
   authors:
-  - "Sebastian J\xE4ger"
+  - "Sebastian J\xC3\xA4ger"
   - Alexander Flick
   - Jessica Adriana Sanchez Garcia
   - Kaspar von den Driesch
@@ -440,25 +536,10 @@
   link: https://arxiv.org/abs/2206.07497
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3389/frsus.2022.922984
-  title: 'Nudging Sustainable Consumption: A Large-Scale Data Analysis of Sustainability
-    Labels for Fashion in German Online Retail'
-  authors:
-  - Maike Gossen
-  - "Sebastian J\xE4ger"
-  - Marja Lena Hoffmann
-  - "Felix Bie\xDFmann"
-  - Ruben Korenke
-  - Tilman Santarius
-  publisher: Frontiers in Sustainability
-  date: '2022-06-10'
-  link: https://doi.org/gzj739
-  plugin: sources.py
-  file: sources.yaml
 - id: arXiv:2205.02908
   title: 'GreenDB: Toward a Product-by-Product Sustainability Database'
   authors:
-  - "Sebastian J\xE4ger"
+  - "Sebastian J\xC3\xA4ger"
   - Jessica Greene
   - Max Jakob
   - Ruben Korenke
@@ -487,24 +568,13 @@
   - Muhammad Bilal Zafar
   - Philipp Schmidt
   - Michele Donini
-  - "C\xE9dric Archambeau"
+  - "C\xC3\xA9dric Archambeau"
   - Felix Biessmann
   - Sanjiv Ranjan Das
   - Krishnaram Kenthapadi
   publisher: arXiv
   date: '2021-12-24'
   link: https://arxiv.org/abs/2112.12444
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/fdata.2021.693674
-  title: A Benchmark for Data Imputation Methods
-  authors:
-  - "Sebastian J\xE4ger"
-  - Arndt Allhorn
-  - "Felix Bie\xDFmann"
-  publisher: Frontiers in Big Data
-  date: '2021-07-08'
-  link: https://doi.org/gz34ds
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2106.11394
@@ -641,18 +711,18 @@
   title: Sensor Artificial Intelligence and its Application to Space Systems -- A
     White Paper
   authors:
-  - "Anko B\xF6rner"
-  - "Heinz-Wilhelm H\xFCbers"
+  - "Anko B\xC3\xB6rner"
+  - "Heinz-Wilhelm H\xC3\xBCbers"
   - Odej Kao
   - Florian Schmidt
-  - "S\xF6ren Becker"
+  - "S\xC3\xB6ren Becker"
   - Joachim Denzler
   - Daniel Matolin
   - David Haber
   - Sergio Lucia
   - Wojciech Samek
   - Rudolph Triebel
-  - "Sascha Eichst\xE4dt"
+  - "Sascha Eichst\xC3\xA4dt"
   - Felix Biessmann
   - Anna Kruspe
   - Peter Jung

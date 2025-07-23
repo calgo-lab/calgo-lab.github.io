@@ -170,6 +170,14 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: url:https://sensorsportal.com/AIMH_2025/AIMH_2025_Proceedings.pdf
+  title: ''
+  authors: []
+  publisher: IFSA Publishing, S. L.
+  date: ''
+  link: https://sensorsportal.com/AIMH_2025/AIMH_2025_Proceedings.pdf
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:2504.17461
   title: 'Evaluating Time Series Models for Urban Wastewater Management: Predictive
     Performance, Model Complexity and Resilience'

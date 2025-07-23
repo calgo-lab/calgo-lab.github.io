@@ -170,12 +170,16 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
-- id: url:https://sensorsportal.com/AIMH_2025/AIMH_2025_Proceedings.pdf
-  title: ''
-  authors: []
-  publisher: IFSA Publishing, S. L.
-  date: ''
-  link: https://sensorsportal.com/AIMH_2025/AIMH_2025_Proceedings.pdf
+- id: doi:10.13140/RG.2.2.20387.77606
+  title: Artificial Intelligence in Medicine and Healthcare, Proceedings of the 1st
+    International Conference on AI in Medicine and Healthcare (AiMH' 2025), 8-10 April
+    2025, Innsbruck, Austria
+  authors:
+  - Sergey Y Yurish
+  publisher: Proceedings of the 1st International Conference on AI in Medicine and
+    Healthcare (AiMH' 2025)
+  date: '2025-01-01'
+  link: https://doi.org/g9tzgv
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2504.17461

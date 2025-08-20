@@ -1,15 +1,15 @@
-- title: demo-synthetic-service
+- title: Generation of Synthetic Data
+  image: images/synthetic_data_demo.png
   link: https://synthetic-app.demo.calgo-lab.de
-  description: TODO
-- title: product-classification-product-classification-demo
+  description: Generate synthetic data from limited samples and preserve privacy.
+- title: Classification of Product Categories
+  image: images/product_classification_demo.png
   link: https://product-classification.demo.calgo-lab.de
-  description: TODO
-- title: pseugc-app-ingress
-  link: https://pseugc-app.demo.calgo-lab.de
-  description: TODO
-- title: redakto-demo-service
+  description: Classify products into predefined categories using machine learning techniques.
+- title: German Text Redactor
+  image: images/redakto_demo.png
   link: https://redakto.demo.calgo-lab.de
-  description: TODO
+  description: Pseudonymize german texts to protect personal data.
 - title: Time Series Forecasting for Sewer Systems
   link: https://riwwer.demo.calgo-lab.de
   image: images/riwwer_demo.png

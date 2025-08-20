@@ -1,0 +1,30 @@
+- title: demo-synthetic-service
+  link: https://synthetic-app.demo.calgo-lab.de
+  description: TODO
+- title: product-classification-product-classification-demo
+  link: https://product-classification.demo.calgo-lab.de
+  description: TODO
+- title: pseugc-app-ingress
+  link: https://pseugc-app.demo.calgo-lab.de
+  description: TODO
+- title: redakto-demo-service
+  link: https://redakto.demo.calgo-lab.de
+  description: TODO
+- title: Time Series Forecasting for Sewer Systems
+  link: https://riwwer.demo.calgo-lab.de
+  image: images/riwwer_demo.png
+  description: Live-on-tape demonstration of forecasting filling levels in a complex real-world sewer system.
+  tags:
+  - infrastructure
+  - sustainability
+  - tinyML
+  - IoT
+  - time-series
+- title: Soil Horizon Classification for Agriculture
+  image: images/soilnet_demo.png
+  link: https://soilnet.demo.calgo-lab.de
+  description: Demonstration of our multi-task multi-modal model *SoilNet* for segmenting and classifying soil horizons within soil profile images.
+  tags:
+  - sustainability
+  - vision
+  - agriculture

@@ -5,11 +5,15 @@
 - title: Classification of Product Categories
   image: images/product_classification_demo.png
   link: https://product-classification.demo.calgo-lab.de
-  description: Classify products into predefined categories using machine learning techniques.
-- title: German Text Redactor
+- title: "Redakto: German Text Redactor"
   image: images/redakto_demo.png
   link: https://redakto.demo.calgo-lab.de
-  description: Pseudonymize german texts to protect personal data.
+  description: A text redaction application powered by multiple domain-specific NER models and Pseudonym-Generation model that automatically detects and replaces sensitive entities in German texts ensuring privacy protection.
+  tags:
+  - data privacy
+  - named entity recognition
+  - text redaction
+  - pseudonymization
 - title: Time Series Forecasting for Sewer Systems
   link: https://riwwer.demo.calgo-lab.de
   image: images/riwwer_demo.png

@@ -1,0 +1,34 @@
+- title: Generation of Synthetic Data
+  image: images/synthetic_data_demo.png
+  link: https://synthetic-app.demo.calgo-lab.de
+  description: Generate synthetic data from limited samples and preserve privacy.
+- title: Classification of Product Categories
+  image: images/product_classification_demo.png
+  link: https://product-classification.demo.calgo-lab.de
+- title: "Redakto: German Text Redactor"
+  image: images/redakto_demo.png
+  link: https://redakto.demo.calgo-lab.de
+  description: A text redaction application powered by multiple domain-specific NER models and Pseudonym-Generation model that automatically detects and replaces sensitive entities in German texts ensuring privacy protection.
+  tags:
+  - data privacy
+  - named entity recognition
+  - text redaction
+  - pseudonymization
+- title: Time Series Forecasting for Sewer Systems
+  link: https://riwwer.demo.calgo-lab.de
+  image: images/riwwer_demo.png
+  description: Live-on-tape demonstration of forecasting filling levels in a complex real-world sewer system.
+  tags:
+  - infrastructure
+  - sustainability
+  - tinyML
+  - IoT
+  - time-series
+- title: Soil Horizon Classification for Agriculture
+  image: images/soilnet_demo.png
+  link: https://soilnet.demo.calgo-lab.de
+  description: Demonstration of our multi-task multi-modal model *SoilNet* for segmenting and classifying soil horizons within soil profile images.
+  tags:
+  - sustainability
+  - vision
+  - agriculture

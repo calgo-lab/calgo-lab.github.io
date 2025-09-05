@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2196/71034
+  title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
+    \ Risk Assessment (Preprint)"
+  authors:
+  - Ivana Nanevski
+  - "Sebastian J\xE4ger"
+  - Matthias Schulte-Althoff
+  - Eva-Maria Behnke
+  - "Daniel F\xFCrstenau"
+  - Felix Biessmann
+  publisher: Journal of Medical Internet Research
+  date: '2025-01-08'
+  link: https://doi.org/g9x39w
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2196/preprints.71034
   title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
     \ Risk Assessment (Preprint)"

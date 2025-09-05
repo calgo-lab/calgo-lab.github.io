@@ -1,6 +1,6 @@
 ---
 name: Saurav Kumar Saha
-description: Student
+image: images/saurav.jpeg
 role: programmer
 links:
   github: sksdotsauravs-bht

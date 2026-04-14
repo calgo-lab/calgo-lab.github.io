@@ -1,8 +1,54 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.geoderma.2026.117684
+  title: 'SoilNet: A multimodal multitask model for hierarchical classification of
+    soil horizons'
+  authors:
+  - Vipin Singh
+  - Teodor Chiaburu
+  - Einar Eberhardt
+  - Stefan Broda
+  - "Joey Pr\xFCssing"
+  - "Frank Hau\xDFer"
+  - "Felix Bie\xDFmann"
+  publisher: Geoderma
+  date: '2026-02-01'
+  link: https://doi.org/hbmcxt
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-032-08333-3_18
+  title: "Uncertainty Propagation in\_XAI: A Comparison of\_Analytical and\_Empirical\
+    \ Estimators"
+  authors:
+  - Teodor Chiaburu
+  - "Felix Bie\xDFmann"
+  - "Frank Hau\xDFer"
+  publisher: Communications in Computer and Information Science
+  date: '2025-10-19'
+  link: https://doi.org/g97cmf
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3774914
+  title: Towards Realistic Error Models for Tabular Data
+  authors:
+  - Philipp Jung
+  - "Sebastian J\xE4ger"
+  - Nicholas Chandler
+  - Felix Biessmann
+  publisher: Journal of Data and Information Quality
+  date: '2025-12-04'
+  link: https://doi.org/g99txm
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2196/71034
-  title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
-    \ Risk Assessment (Preprint)"
+  title: 'The Potential of AI in Nursing Care: Multicenter Evaluation in Fall Risk
+    Assessment'
   authors:
   - Ivana Nanevski
   - "Sebastian J\xE4ger"
@@ -11,42 +57,8 @@
   - "Daniel F\xFCrstenau"
   - Felix Biessmann
   publisher: Journal of Medical Internet Research
-  date: '2025-01-08'
+  date: '2025-10-08'
   link: https://doi.org/g9x39w
-  orcid: 0000-0002-3422-1026
-  felix-biessmann: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.71034
-  title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
-    \ Risk Assessment (Preprint)"
-  authors:
-  - Ivana Nanevski
-  - "Sebastian J\xE4ger"
-  - Matthias Schulte-Althoff
-  - Eva-Maria Behnke
-  - "Daniel F\xFCrstenau"
-  - Felix Biessmann
-  publisher: JMIR Publications Inc.
-  date: '2025-01-08'
-  link: https://doi.org/g82fpg
-  orcid: 0000-0002-3422-1026
-  felix-biessmann: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.68033
-  title: "The Potential of AI in Nursing Care: A Multi\u2013Center Evaluation in Fall\
-    \ Risk Assessment (Preprint)"
-  authors:
-  - Ivana Nanevski
-  - "Sebastian J\xE4ger"
-  - Matthias Schulte-Althoff
-  - Eva-Maria Behnke
-  - "Daniel F\xFCrstenau"
-  - Felix Biessmann
-  publisher: JMIR Publications Inc.
-  date: '2024-10-26'
-  link: https://doi.org/g8pzsv
   orcid: 0000-0002-3422-1026
   felix-biessmann: true
   plugin: orcid.py
@@ -187,6 +199,61 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: https://openreview.net/forum?id=nJ4p8rh3Ig
+  title: Robust Conformal Prediction for Infrequent Classes
+  authors:
+  - Jens-Michalis Papaioannou
+  - "Sebastian J\xE4ger"
+  - Alexei Figueroa
+  - David Stutz
+  - Betty Aken
+  - Keno Bressem
+  - Wolfgang Nejdl
+  - Felix Gers
+  - "Alexander L\xF6ser"
+  - Felix Biessmann
+  publisher: Transactions on Machine Learning Research
+  date: '2025-08-19'
+  link: https://openreview.net/forum?id=nJ4p8rh3Ig
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.geoderma.2026.117684
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.geoderma.2026.117684
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2512.04138
+  title: 'MechDetect: Detecting Data-Dependent Errors'
+  authors:
+  - Philipp Jung
+  - Nicholas Chandler
+  - "Sebastian J\xC3\xA4ger"
+  - Felix Biessmann
+  publisher: International Conference on Data Science and Intelligent Systems (DSIS
+    2025)
+  date: '2025-12-05'
+  link: https://arxiv.org/abs/2512.04138
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/hess-29-3405-2025
+  title: Towards a global spatial machine learning model for seasonal groundwater
+    level predictions in Germany
+  authors:
+  - Stefan Kunz
+  - Alexander Schulz
+  - Maria Wetzel
+  - "Maximilian N\xF6lscher"
+  - Teodor Chiaburu
+  - Felix Biessmann
+  - Stefan Broda
+  publisher: Hydrology and Earth System Sciences
+  date: '2025-08-01'
+  link: https://doi.org/hbw29v
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:2504.17461
   title: 'Evaluating Time Series Models for Urban Wastewater Management: Predictive
     Performance, Model Complexity and Resilience'
@@ -216,8 +283,8 @@
     Estimators'
   authors:
   - Teodor Chiaburu
-  - "Felix Bie\xC3\x9Fmann"
-  - "Frank Hau\xC3\x9Fer"
+  - "Felix Bie\xDFmann"
+  - "Frank Hau\xDFer"
   publisher: 3rd World Conference on eXplainable Artificial Intelligence (XAI-2025)
   date: '2025-04-08'
   link: https://arxiv.org/abs/2504.03736
@@ -243,7 +310,7 @@
   - "Felix Bie\xC3\x9Fmann"
   - Kristian Hildebrand
   publisher: arXiv
-  date: '2024-09-10'
+  date: '2025-09-25'
   link: https://arxiv.org/abs/2409.03887
   plugin: sources.py
   file: sources.yaml

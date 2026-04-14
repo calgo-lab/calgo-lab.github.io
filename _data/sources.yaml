@@ -1,3 +1,9 @@
+- id: https://openreview.net/forum?id=nJ4p8rh3Ig 
+- id: https://doi.org/10.1016/j.geoderma.2026.117684
+- id: arxiv:2512.04138
+  publisher: International Conference on Data Science and Intelligent Systems (DSIS 2025)
+- id: doi:10.1145/3774914
+- id: doi:10.5194/hess-29-3405-2025
 - id: arxiv:2504.17461
   publisher: 10th International Conference on Smart and Sustainable Technologies
 - id: url:https://sensorsportal.com/AIMH_2025/AIMH_2025_Proceedings.pdf#page=99
@@ -9,6 +15,10 @@
   title: End-to-end Pseudonymization of German Texts with Deep Learning – An Empirical Comparison of Classical and Modern Approaches
 - id: arxiv:2504.03736
   publisher: 3rd World Conference on eXplainable Artificial Intelligence (XAI-2025)
+  authors: 
+    - Teodor Chiaburu 
+    - Felix Bießmann
+    - Frank Haußer
 - id: arXiv:2409.17157
   publisher: AIMLAI Workshop, ECML 2024, Vilnius
 - id: arXiv:2409.03887

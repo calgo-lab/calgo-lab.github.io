@@ -1,6 +1,14 @@
+- title: SoilNet
+  subtitle: Soil Horizon Classification
+  group: ongoing
+  description: In collaboration with the [Federal Institute for Geosciences and Natural Resources](https://www.bgr.bund.de/EN/Home/home_node.html) we are developing and evaluating novel multi-modal Machine Learning methods to automate classification of soil horizons. 
+  tags:
+    - sustainability
+    - images
+
 - title: KIP-SDM
   subtitle: AI for Nursing Care
-  group: ongoing
+  group: completed
   image: images/ai4care.png
   link: https://ai4care.org/
   description: We develop and evaluate ML methods for fall risk prediction in nursing care. We investigate the potential of synthetic health data under strict privacy constraints. Funded by the [Federal Ministry for Research and Education](https://www.bmbf.de/bmbf/en/home/home_node.html)
@@ -12,7 +20,7 @@
 
 - title: ProKIP
   subtitle: Process development and support for AI use in nursing care
-  group: ongoing
+  group: completed
   image: images/prokip.png
   link: https://prokip.care/
   description: ProKIP accompanies, advises and evaluates AI for nursing care research projects. Funded by the [Federal Ministry for Research and Education](https://www.bmbf.de/bmbf/en/home/home_node.html)
@@ -22,7 +30,7 @@
 
 - title: RIWWER
   subtitle: Reduction of the Impact of untreated Waste Water on the Environment in case of torrential Rain
-  group: ongoing
+  group: completed
   image: images/RIWWER.png
   link: https://www.riwwer.fraunhofer.de/
   description: During heavy rainfall, polluted wastewater pollutes surface water bodies. We develop ML methods to better model sewer system dynamics. 
@@ -34,7 +42,7 @@
 
 - title: Synthetic Satellite Imagery
   subtitle: 
-  group: ongoing
+  group: completed
   image: images/dsf.png
   link: https://bundesstiftung-friedensforschung.de/blog/citizen-based-monitoring-for-peace-security/
   description: Investigating risks and potential of synthetic satellite imagery for citizen-based monitoring. In collaboration with Alexander Glaser (Princeton Univ.) and Rebecca Frank (Univ. of Michigan)

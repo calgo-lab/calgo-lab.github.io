@@ -25,3 +25,10 @@
   - sustainability
   - vision
   - agriculture
+- title: "OpExStruct: Open Source Structure Extraction"
+  image: images/opexstruct_demo.png
+  link: https://github.com/calgo-lab/struct-extract-research
+  description: Research and tooling to extract and output structured data out of unstructured documents (PDF) using open source machine learning options. Tailored to student applications. 
+  tags:
+  - structure extraction
+  - classification

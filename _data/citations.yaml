@@ -18,6 +18,20 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/978-3-032-25305-7_6
+  title: "Confident Teacher, Confident Student? A Novel User Study Design for\_Investigating\
+    \ the\_Didactic Potential of\_Explanations and\_Their Impact on\_Uncertainty"
+  authors:
+  - Teodor Chiaburu
+  - "Frank Hau\xDFer"
+  - "Felix Bie\xDFmann"
+  publisher: Communications in Computer and Information Science
+  date: '2026-01-01'
+  link: https://doi.org/hb55rk
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-032-08333-3_18
   title: "Uncertainty Propagation in\_XAI: A Comparison of\_Analytical and\_Empirical\
     \ Estimators"

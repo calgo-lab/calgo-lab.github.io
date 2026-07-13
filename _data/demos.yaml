@@ -25,3 +25,11 @@
   - sustainability
   - vision
   - agriculture
+- title: Presspulse
+  image: images/presspulse_demo.png
+  link: https://calgo-lab.de/presspulse/
+  description: Demonstration of our classification model which categorizes Presseschau news articles into standardized Manifesto Project categories.
+  tags:
+  - politics
+  - newspapers
+  - manifesto

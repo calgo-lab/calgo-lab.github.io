@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2196/84148
+  title: 'Readiness Assessment for AI in Nursing Care Projects: Multimethods Study'
+  authors:
+  - Kathrin Seibert
+  - Dominik Domhoff
+  - Janissa Altona
+  - "Sebastian J\xE4ger"
+  - "Felix Bie\xDFmann"
+  - Alessia Nowak
+  - Rahel Gubser
+  - Matthias Schulte-Althoff
+  - "Daniel F\xFCrstenau"
+  - "J\xF6rg Pohle"
+  - Lea Bergmann
+  - David Walter
+  - Kathi Beier
+  - Dagmar Borchers
+  - Karin Wolf-Ostermann
+  publisher: JMIR Nursing
+  date: '2026-06-02'
+  link: https://doi.org/hb96w7
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.geoderma.2026.117684
   title: 'SoilNet: A multimodal multitask model for hierarchical classification of
     soil horizons'
@@ -14,6 +39,20 @@
   publisher: Geoderma
   date: '2026-02-01'
   link: https://doi.org/hbmcxt
+  orcid: 0000-0002-3422-1026
+  felix-biessmann: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-032-25305-7_6
+  title: "Confident Teacher, Confident Student? A Novel User Study Design for\_Investigating\
+    \ the\_Didactic Potential of\_Explanations and\_Their Impact on\_Uncertainty"
+  authors:
+  - Teodor Chiaburu
+  - "Frank Hau\xDFer"
+  - "Felix Bie\xDFmann"
+  publisher: Communications in Computer and Information Science
+  date: '2026-01-01'
+  link: https://doi.org/hb55rk
   orcid: 0000-0002-3422-1026
   felix-biessmann: true
   plugin: orcid.py
@@ -200,21 +239,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: https://openreview.net/forum?id=nJ4p8rh3Ig
-  title: Robust Conformal Prediction for Infrequent Classes
-  authors:
-  - Jens-Michalis Papaioannou
-  - "Sebastian J\xE4ger"
-  - Alexei Figueroa
-  - David Stutz
-  - Betty Aken
-  - Keno Bressem
-  - Wolfgang Nejdl
-  - Felix Gers
-  - "Alexander L\xF6ser"
-  - Felix Biessmann
-  publisher: Transactions on Machine Learning Research
-  date: '2025-08-19'
-  link: https://openreview.net/forum?id=nJ4p8rh3Ig
+  title: Verifying your browser | OpenReview
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DnJ4p8rh3Ig
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.geoderma.2026.117684

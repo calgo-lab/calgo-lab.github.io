@@ -1,5 +1,41 @@
+- id: arXiv:2605.10592
+  publisher: International Joint Conference on Artificial Intelligence (IJCAI)
+- id: arXiv:2608.17711
+  publisher: Proceedings of the GREEN-AI Workshop at ECML-PKDD
+- id: arXiv:2608.18260
+  authors:
+    - Saurav Saha Kumar
+    - Tom Roehr
+    - Felix Biessmann
+  publisher: Proceedings of 2nd Workshop on Machine Unlearning and Privacy Preservation (WIPE-OUT) at ECML-PKDD
+- id: arXiv:2608.18268
+  authors:
+    - Yara Doering
+    - Felix Biessmann
+  publisher: Proceedings of the 2nd International Workshop on Sustainable Artificial Intelligence for addressing Online Information Disorder (SAI4OID) at ECML-PKDD
+- id: arXiv:2608.18289
+  authors:
+    - Elias Schubert
+    - Felix Biessmann
+  publisher: Proceedings of Workshop on Systems Over Models What Actually Works in Industry (SOMI-2026) at ECML-PKDD
+- id: arXiv:2608.23101
+  publisher: Proceedings of 7th IEEE International Symposium on the Internet of Sounds (IEEE IS2)
 - id: https://openreview.net/forum?id=nJ4p8rh3Ig 
+  publisher: Transactions in Machine Learning Research (TMLR)
+  date: 2026
+  authors:
+    - Jens-Michalis Papaioannou
+    - Sebastian Jäger 
+    - Alexei Figueroa
+    - David Stutz
+    - Betty van Aken
+    - Keno Bressem
+    - Wolfgang Nejdl
+    - Felix Gers
+    - Alexander Löser
+    - Felix Biessmann
 - id: https://doi.org/10.1016/j.geoderma.2026.117684
+- id: https://www.nature.com/articles/s41597-026-07910-z
 - id: arxiv:2512.04138
   publisher: International Conference on Data Science and Intelligent Systems (DSIS 2025)
 - id: doi:10.1145/3774914
@@ -19,9 +55,31 @@
     - Teodor Chiaburu 
     - Felix Bießmann
     - Frank Haußer
+- id: arXiv:2508.13905
+  publisher: 11th IEEE International Smart Cities Conference
 - id: arXiv:2409.17157
   publisher: AIMLAI Workshop, ECML 2024, Vilnius
+  authors: 
+    - Teodor Chiaburu 
+    - Felix Bießmann
+    - Frank Haußer
 - id: arXiv:2409.03887
+  publisher: Proceedings of the 33. International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision
+  authors:  
+    - Arnold Schwarz
+    - Levente Hernadi
+    - Felix Biessmann
+    - Kristian Hildebrand
+- id: arXiv:2603.01224
+  publisher: Workshop on Integrating Image Processing with Large-Scale Language/Vision Models for Advanced Visual Understanding (LVLM) at IEEE International Conference on Image Processing (ICIP)
+  authors:
+    - Ari Wahl
+    - Dorian Gawlinski
+    - David Przewozny 
+    - Paul Chojecki
+    - Felix Biessmann
+    - Sebastian Bosse
+  date: 2025-04-16
 - id: arXiv:2408.11619
   publisher: Workshop on Public Interest AI at 47th German Conference on AI (KI 2024)
 - id: arXiv:2407.21453

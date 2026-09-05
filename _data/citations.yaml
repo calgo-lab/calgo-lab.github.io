@@ -238,11 +238,98 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: arXiv:2605.10592
+  title: A Resilient Solution for Sewer Overflow Monitoring across Cloud and Edge
+  authors:
+  - Vipin Singh
+  - Tianheng Ling
+  - Peter Ghaly
+  - Felix Grimmeisen
+  - Gregor Schiele
+  - Felix Biessmann
+  publisher: International Joint Conference on Artificial Intelligence (IJCAI)
+  date: '2026-06-11'
+  link: https://arxiv.org/abs/2605.10592
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2608.17711
+  title: Accuracy and Robustness of Model Cascades Under Data Perturbations
+  authors:
+  - Pallavi Mitra
+  - Jai Kushwaha
+  - Felix Biessmann
+  publisher: Proceedings of the GREEN-AI Workshop at ECML-PKDD
+  date: '2026-08-20'
+  link: https://arxiv.org/abs/2608.17711
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2608.18260
+  title: Redakto - The Incognito Tab for LLMs
+  authors:
+  - Saurav Saha Kumar
+  - Tom Roehr
+  - Felix Biessmann
+  publisher: Proceedings of 2nd Workshop on Machine Unlearning and Privacy Preservation
+    (WIPE-OUT) at ECML-PKDD
+  date: '2026-08-20'
+  link: https://arxiv.org/abs/2608.18260
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2608.18268
+  title: 'Global Crises and National Policies: A Large Scale Analysis of Political
+    Content in German Language Online Media'
+  authors:
+  - Yara Doering
+  - Felix Biessmann
+  publisher: Proceedings of the 2nd International Workshop on Sustainable Artificial
+    Intelligence for addressing Online Information Disorder (SAI4OID) at ECML-PKDD
+  date: '2026-08-20'
+  link: https://arxiv.org/abs/2608.18268
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2608.18289
+  title: Evaluating Structured Information Extraction with Open Models in a High Risk
+    Public Sector Application
+  authors:
+  - Elias Schubert
+  - Felix Biessmann
+  publisher: Proceedings of Workshop on Systems Over Models What Actually Works in
+    Industry (SOMI-2026) at ECML-PKDD
+  date: '2026-08-20'
+  link: https://arxiv.org/abs/2608.18289
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2608.23101
+  title: 'PolyChirp: Multi-Species Birdsong Classification Using TinyML on Low-Power
+    Acoustic Sensors'
+  authors:
+  - Nathan Duboisset
+  - Zhaolan Huang
+  - "Felix Bie\xC3\x9Fmann"
+  - Roudy Dagher
+  - Antoine Lavandier
+  - Emmanuel Baccelli
+  publisher: Proceedings of 7th IEEE International Symposium on the Internet of Sounds
+    (IEEE IS2)
+  date: '2026-08-25'
+  link: https://arxiv.org/abs/2608.23101
+  plugin: sources.py
+  file: sources.yaml
 - id: https://openreview.net/forum?id=nJ4p8rh3Ig
   title: Verifying your browser | OpenReview
-  authors: []
-  publisher: ''
-  date: ''
+  authors:
+  - Jens-Michalis Papaioannou
+  - "Sebastian J\xE4ger"
+  - Alexei Figueroa
+  - David Stutz
+  - Betty van Aken
+  - Keno Bressem
+  - Wolfgang Nejdl
+  - Felix Gers
+  - "Alexander L\xF6ser"
+  - Felix Biessmann
+  publisher: Transactions in Machine Learning Research (TMLR)
+  date: '1970-01-01'
   link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DnJ4p8rh3Ig
   plugin: sources.py
   file: sources.yaml
@@ -252,6 +339,27 @@
   publisher: ''
   date: ''
   link: https://doi.org/10.1016/j.geoderma.2026.117684
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.nature.com/articles/s41597-026-07910-z
+  title: Anonymized but Useful Synthetic Tabular Health Data for AI based Fall Risk
+    Assessment
+  authors:
+  - Ivana Nanevski
+  - "Sebastian J\xE4ger"
+  - Maryam Mohebi
+  - Matthias Schulte-Althoff
+  - "J\xF6rg Pohle"
+  - Nicholas Chandler
+  - Rahel Gubser
+  - Alessia Nowak
+  - Fabian Prasser
+  - "Daniel F\xFCrstenau"
+  - Felix Balzer
+  - Felix Biessmann
+  publisher: Scientific Data
+  date: '2026-07-24'
+  link: https://www.nature.com/articles/s41597-026-07910-z
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2512.04138
@@ -319,13 +427,27 @@
   link: https://arxiv.org/abs/2504.03736
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2508.13905
+  title: Automated Energy-Aware Time-Series Model Deployment on Embedded FPGAs for
+    Resilient Combined Sewer Overflow Management
+  authors:
+  - Tianheng Ling
+  - Vipin Singh
+  - Chao Qian
+  - Felix Biessmann
+  - Gregor Schiele
+  publisher: 11th IEEE International Smart Cities Conference
+  date: '2026-04-22'
+  link: https://arxiv.org/abs/2508.13905
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2409.17157
   title: Confident Teacher, Confident Student? A Novel User Study Design for Investigating
     the Didactic Potential of Explanations and their Impact on Uncertainty
   authors:
   - Teodor Chiaburu
-  - "Frank Hau\xC3\x9Fer"
-  - "Felix Bie\xC3\x9Fmann"
+  - "Felix Bie\xDFmann"
+  - "Frank Hau\xDFer"
   publisher: AIMLAI Workshop, ECML 2024, Vilnius
   date: '2024-09-27'
   link: https://arxiv.org/abs/2409.17157
@@ -336,11 +458,28 @@
   authors:
   - Arnold Schwarz
   - Levente Hernadi
-  - "Felix Bie\xC3\x9Fmann"
+  - Felix Biessmann
   - Kristian Hildebrand
-  publisher: arXiv
+  publisher: Proceedings of the 33. International Conference in Central Europe on
+    Computer Graphics, Visualization and Computer Vision
   date: '2025-09-25'
   link: https://arxiv.org/abs/2409.03887
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2603.01224
+  title: Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction
+  authors:
+  - Ari Wahl
+  - Dorian Gawlinski
+  - David Przewozny
+  - Paul Chojecki
+  - Felix Biessmann
+  - Sebastian Bosse
+  publisher: Workshop on Integrating Image Processing with Large-Scale Language/Vision
+    Models for Advanced Visual Understanding (LVLM) at IEEE International Conference
+    on Image Processing (ICIP)
+  date: '2025-04-16'
+  link: https://arxiv.org/abs/2603.01224
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2408.11619

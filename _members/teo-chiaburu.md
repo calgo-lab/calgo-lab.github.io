@@ -1,7 +1,7 @@
 ---
 name: Teodor Chiaburu
 image: images/teo.jpeg
-role: phd
+role: alumnus
 links:
   github: TeodorChiaburu
   home-page: https://teodorchiaburu.github.io/

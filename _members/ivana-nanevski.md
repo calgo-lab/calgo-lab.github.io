@@ -1,7 +1,7 @@
 ---
 name: Ivana Nanevski
 image: images/ivana.jpeg
-role: phd
+role: alumnus
 links:
   github: itrajanovska
 ---

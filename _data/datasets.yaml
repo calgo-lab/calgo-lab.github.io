@@ -1,3 +1,12 @@
+- title: SynTabFall
+  subtitle: Anonymized but useful health data for fall risk AI models
+  link: https://zenodo.org/records/20427694
+  description: In collaboration with Charité Berlin we released a synthetic data set for training AI fall risk assessement models, described in the accompaning [paper](https://www.nature.com/articles/s41597-026-07910-z).
+  image: images/fall-icon.png
+  tags:
+    - health
+    - tabular
+
 - title: PoliTweets
   subtitle: German Tweets annotated with political preferences
   image: images/politweets.png
@@ -29,6 +38,7 @@
   subtitle: Bird song classification with tinyML
   description: Collection of audio data for training TinyChirp models to monitor biodiversity. 
   link: https://www.kaggle.com/datasets/zhaolanhuang/tinychirp
+  image: images/tinychirp.jpg
   tags: 
     - sustainability
     - biodiversity

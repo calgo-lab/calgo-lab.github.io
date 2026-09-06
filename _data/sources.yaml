@@ -19,6 +19,14 @@
     - Felix Biessmann
   publisher: Proceedings of Workshop on Systems Over Models What Actually Works in Industry (SOMI-2026) at ECML-PKDD
 - id: arXiv:2608.23101
+  authors: 
+    - Nathan Duboisset
+    - Zhaolan Huang
+    - Felix Biessmann
+    - Roudy Dagher
+    - Antoine Lavandier
+    - Emmanuel Baccelli
+    
   publisher: Proceedings of 7th IEEE International Symposium on the Internet of Sounds (IEEE IS2)
 - id: https://openreview.net/forum?id=nJ4p8rh3Ig 
   publisher: Transactions in Machine Learning Research (TMLR)

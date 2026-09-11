@@ -41,8 +41,8 @@
   link: https://doi.org/hbmcxt
   orcid: 0000-0002-3422-1026
   felix-biessmann: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-032-25305-7_6
   title: "Confident Teacher, Confident Student? A Novel User Study Design for\_Investigating\
     \ the\_Didactic Potential of\_Explanations and\_Their Impact on\_Uncertainty"
@@ -238,6 +238,40 @@
   felix-biessmann: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s44401-026-00138-4
+  title: Explainable SHAP-space fall risk profiling from electronic health records
+    for inpatient prevention planning
+  authors:
+  - Matthias Schulte-Althoff
+  - Peter Krappen
+  - "Felix Bie\xDFmann"
+  - "Sebastian J\xE4ger"
+  - Rahel Gubser
+  - Armin Hauss
+  - Felix Balzer
+  - Tim Kilgus
+  - "Daniel F\xFCrstenau"
+  publisher: npj Health Systems
+  date: '2026-09-10'
+  link: https://doi.org/hch984
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pdig.0001522
+  title: Evaluating the quality of tabular synthetic data in health care
+  authors:
+  - Ivana Nanevski
+  - Maryam Mohebi
+  - "Sebastian J\xE4ger"
+  - Karen Otte
+  - Fabian Prasser
+  - Matthias Schulte-Althoff
+  - "Daniel F\xFCrstenau"
+  - Felix Biessmann
+  publisher: PLOS Digital Health
+  date: '2026-07-07'
+  link: https://doi.org/hch985
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2605.10592
   title: A Resilient Solution for Sewer Overflow Monitoring across Cloud and Edge
   authors:
@@ -315,8 +349,8 @@
   link: https://arxiv.org/abs/2608.23101
   plugin: sources.py
   file: sources.yaml
-- id: https://openreview.net/forum?id=nJ4p8rh3Ig
-  title: Verifying your browser | OpenReview
+- id: url:https://openreview.net/forum?id=nJ4p8rh3Ig
+  title: Robust Conformal Prediction for Infrequent Classes
   authors:
   - Jens-Michalis Papaioannou
   - "Sebastian J\xE4ger"
@@ -329,16 +363,8 @@
   - "Alexander L\xF6ser"
   - Felix Biessmann
   publisher: Transactions in Machine Learning Research (TMLR)
-  date: '1970-01-01'
+  date: '2026-12-16'
   link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DnJ4p8rh3Ig
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.1016/j.geoderma.2026.117684
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1016/j.geoderma.2026.117684
   plugin: sources.py
   file: sources.yaml
 - id: https://www.nature.com/articles/s41597-026-07910-z

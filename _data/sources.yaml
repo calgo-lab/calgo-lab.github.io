@@ -1,3 +1,5 @@
+- id: doi:10.1038/s44401-026-00138-4
+- id: doi:10.1371/journal.pdig.0001522
 - id: arXiv:2605.10592
   publisher: International Joint Conference on Artificial Intelligence (IJCAI)
 - id: arXiv:2608.17711
@@ -26,11 +28,11 @@
     - Roudy Dagher
     - Antoine Lavandier
     - Emmanuel Baccelli
-    
   publisher: Proceedings of 7th IEEE International Symposium on the Internet of Sounds (IEEE IS2)
-- id: https://openreview.net/forum?id=nJ4p8rh3Ig 
+- id: url:https://openreview.net/forum?id=nJ4p8rh3Ig 
+  title: Robust Conformal Prediction for Infrequent Classes
   publisher: Transactions in Machine Learning Research (TMLR)
-  date: 2026
+  date: 2026-12-16
   authors:
     - Jens-Michalis Papaioannou
     - Sebastian Jäger 
@@ -42,7 +44,7 @@
     - Felix Gers
     - Alexander Löser
     - Felix Biessmann
-- id: https://doi.org/10.1016/j.geoderma.2026.117684
+- id: doi:10.1016/j.geoderma.2026.117684
 - id: https://www.nature.com/articles/s41597-026-07910-z
 - id: arxiv:2512.04138
   publisher: International Conference on Data Science and Intelligent Systems (DSIS 2025)

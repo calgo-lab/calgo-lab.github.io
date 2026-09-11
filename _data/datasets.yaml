@@ -1,5 +1,5 @@
 - title: SynTabFall
-  subtitle: Anonymized but useful health data for fall risk AI models
+  subtitle: Synthetic health data for training fall risk models
   link: https://zenodo.org/records/20427694
   description: In collaboration with Charité Berlin we released a synthetic data set for training AI fall risk assessement models, described in the accompaning [paper](https://www.nature.com/articles/s41597-026-07910-z).
   image: images/fall-icon.png
